@@ -1,0 +1,65 @@
+/* warna:
+#00ABB3 = tosca
+#3C4048 = abu gelap
+#B2B2B2 = abu
+#EAEAEA = abu terang */
+
+/* base */
+body {
+    font-family: Candara;
+    margin: 0;
+    padding: 0;
+    background-color: #EAEAEA;
+}
+
+/* header */
+header {
+    background-color: #3C4048;
+    color: #00ABB3;
+    text-align: left;
+    padding: 20px;
+}
+
+/* isi, portofolio */
+.portofolio {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.home {
+    background-color: #00ABB3;
+    border-radius: 5px;
+    margin: 1px;
+    padding: 30px;
+    padding-top: 300px;
+    padding-bottom: 50px;
+    width: calc(33.33% - 5px);
+    text-align: center;
+}
+
+.nav {
+    color: #EAEAEA;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.sub1 {
+    background-color: #00ABB3;
+    border-radius: 5px;
+    margin: 1px;
+    padding: 30px;
+    width: calc(33.33% - 5px);
+    text-align: center;
+}
+
+/* footer */
+footer {
+    background-color: #3C4048;
+    color: #EAEAEA;
+    text-align: center;
+    padding: 10px;
+}
