@@ -9,13 +9,13 @@ body {
     font-family: Candara;
     margin: 0;
     padding: 0;
-    background-color: #EAEAEA;
+    background-color: #3C4048;
 }
 
 /* header */
 header {
-    background-color: #3C4048;
-    color: #00ABB3;
+    background-color: #00ABB3;
+    color: #EAEAEA;
     text-align: left;
     padding: 20px;
 }
@@ -29,7 +29,7 @@ header {
 }
 
 .home {
-    background-color: #00ABB3;
+    background-color: #EAEAEA;
     border-radius: 5px;
     margin: 1px;
     padding: 30px;
@@ -40,7 +40,7 @@ header {
 }
 
 .nav {
-    color: #EAEAEA;
+    color: #00ABB3;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -58,7 +58,7 @@ header {
 
 /* footer */
 footer {
-    background-color: #3C4048;
+    background-color: #00ABB3;
     color: #EAEAEA;
     text-align: center;
     padding: 10px;
