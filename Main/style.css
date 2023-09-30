@@ -17,9 +17,18 @@ body {
 }
 
 .laman {
+    max-width: 100%;
     margin: auto;
     height: 100vh;
     background-image: url(https://i.postimg.cc/zXDZzrz3/BG.png);
+}
+
+.wadah {
+    .laman {
+        max-width: 100%;
+        margin: auto;
+        height: 100vh;
+    }
 }
 
 .bg {
@@ -40,9 +49,12 @@ body {
     height: auto;
 }
 
-.circle {
+.bulet {
+    border-radius: 200px;
     width: 200px;
+    height: 200px;
     border: 5px solid #c3acd0;
+    margin: 50px;
 }
 
 .ribbon {
