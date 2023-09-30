@@ -1,0 +1,32 @@
+Tema1 {
+    --text: #f8fcfc;
+    --background: #0f1f1f;
+    --primary: #4ba09e;
+    --secondary: #0d1c1b;
+    --accent: #4ea6a5;
+}
+
+Tema2 {
+    --text: #f8e8d8;
+    --background: #110a03;
+    --primary: #8beaba;
+    --secondary: #1e1206;
+    --accent: #7825cb;
+
+}
+
+Tema3 {
+    --text: #f5f9f1;
+    --background: #13190b;
+    --primary: #724baa;
+    --secondary: #2c142e;
+    --accent: #5860b6;
+}
+
+Tema4 {
+    --text: #f7efe5;
+    --background: #1d1922;
+    --primary: #674188;
+    --secondary: #c3acd0;
+    --accent: #e87045;
+}
